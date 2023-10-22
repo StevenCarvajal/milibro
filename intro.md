@@ -13,38 +13,7 @@
 <li class="toctree-l1"><a class="reference internal" href="Logros.html">Logros</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Tienda.html">Tienda</a></li>
 </ul>
-
         
-      
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-  
-
-<span class="btn__icon-container">
-  <i class="fas fa-file"></i>
-  </span>
-<span class="btn__text-container">.pdf</span>
-</a>
-</li>
-      
-      
-      
- 
-              
-              
-              
-            
 <div class="prev-next-area">
     <a class="right-next"
        href="Historia.html"
@@ -56,15 +25,7 @@
       <i class="fa-solid fa-angle-right"></i>
     </a>
 </div>
-               
-            </div>
-            
-            
-              
-            
-          </div>
-          <footer class="bd-footer-content">
-            
+                  
 <div class="bd-footer-content__inner container">
   
   <div class="footer-item">
@@ -80,8 +41,6 @@ By Steven Carvajal
   <p class="copyright">
     
       © Copyright 2023
-      <br/>
-    
   </p>
 
   </div>
