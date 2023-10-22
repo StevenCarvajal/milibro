@@ -8,9 +8,7 @@
         
       
   
-    <div class="header-article-items__end">
-      
-        <div class="header-article-item">
+    
 
 <div class="article-header-buttons">
 
@@ -22,16 +20,6 @@
 
 
 
-
-<div 
-      
-      
-      
-    ><a href="_sources/intro.md" target="_blank"
-   clas   title="Download source file"
-   data-bs-placement="left" data-bs-toggle="tooltip"s="btn btn-sm btn-download-source-button dropdown-item"
-
->
   
 
 <span class="btn__icon-container">
