@@ -34,8 +34,7 @@ By Steven Carvajal
 </p>
 
   </div>
-  
-  <div class="footer-item">
+ 
     
   <p class="copyright">
       © Copyright 2023
@@ -43,13 +42,8 @@ By Steven Carvajal
 
   </div>
   
-  <div class="footer-item">
-    
-  </div>
-  
-  <div class="footer-item">
-    
-  </div>
+ 
+ 
   
 </div>
           </footer>
