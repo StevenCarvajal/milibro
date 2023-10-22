@@ -1,3 +1,4 @@
+<section class="tex2jax_ignore mathjax_ignore" id="Bienvenido-a-The-Bears-FC">
 <h1>Bienvenido a The Bears FC</h1>
 <p>Bienvenido a la pagina del club The Bears, donde conoceras un poco acerca del club, su historia, sus logros, como se ha mantenido por tanto tiempo vigente en el futbol norteamericano y tienda.</p> <br/>
 
