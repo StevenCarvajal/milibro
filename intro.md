@@ -44,17 +44,7 @@
               
               
               
-                
-
-                  
-  
-
-
-
-              
-              
-                <footer class="prev-next-footer">
-                  <!-- Previous / next buttons -->
+            
 <div class="prev-next-area">
     <a class="right-next"
        href="Historia.html"
@@ -66,8 +56,7 @@
       <i class="fa-solid fa-angle-right"></i>
     </a>
 </div>
-                </footer>
-              
+               
             </div>
             
             
