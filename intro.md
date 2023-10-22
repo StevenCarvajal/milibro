@@ -8,7 +8,8 @@
     <script>document.write(`<img src="_static/Willie.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
 </section>
 
-<li class="toctree-l1"><a class="reference internal" href="Historia.html">Historia del club</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="Historia.html">Historia del club</a></li> <br>
 <li class="toctree-l1"><a class="reference internal" href="Logros.html">Logros</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Tienda.html">Tienda</a></li>
         
