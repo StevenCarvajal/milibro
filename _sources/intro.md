@@ -1,33 +1,5 @@
 
-  <div class="bd-container">
-    <div class="bd-container__inner bd-page-width">
-      
-      <div class="bd-sidebar-primary bd-sidebar">
-        
-
-
-  
-    <div class="sidebar-primary-items__start sidebar-primary__section">
-        <div class="sidebar-primary-item">
-  
-
-<a class="navbar-brand logo" href="#">
-    <img src="_static/logo.png" class="logo__image only-light" alt="Logo image"/>
-    <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
-  
-  
-</a></div>
-        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
-    <div class="bd-toc-item navbar-nav active">
-        
-        <ul class="nav bd-sidenav bd-sidenav__home-link">
-            <li class="toctree-l1 current active">
-                <a class="reference internal" href="#">
-                    Pagina Principal
-                </a>
-            </li>
-        </ul>
-        <ul class="nav bd-sidenav">
+ 
 <li class="toctree-l1"><a class="reference internal" href="Historia.html">Historia del club</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Logros.html">Logros</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Tienda.html">Tienda</a></li>
