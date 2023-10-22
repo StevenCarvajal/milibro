@@ -2,7 +2,7 @@
 <h1>Bienvenido a The Bears FC</h1>
 <p>Bienvenido a la pagina del club The Bears, donde conoceras un poco acerca del club, su historia, sus logros, como se ha mantenido por tanto tiempo vigente en el futbol norteamericano y tienda.</p> <br/>
 
- <ul>
+
 <li class="toctree-l1"><a class="reference internal" href="Historia.html">Historia del club</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Logros.html">Logros</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Tienda.html">Tienda</a></li>
