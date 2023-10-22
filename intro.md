@@ -49,7 +49,7 @@ By Steven Carvajal
  
   
 </div>
-          </footer>
+          
         
   </div>
   
