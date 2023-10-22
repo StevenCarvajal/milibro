@@ -112,11 +112,4 @@ By Steven Carvajal
     </div>
   </div>
   
-  <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=ac02cc09edc035673794"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794"></script>
 
-  <footer class="bd-footer">
-  </footer>
-  </body>
-</html>
