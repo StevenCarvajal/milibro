@@ -1,17 +1,20 @@
 <section class="tex2jax_ignore mathjax_ignore" id="Bienvenido-a-The-Bears-FC">
 <h1>Bienvenido a The Bears FC</h1>
 <p>Bienvenido a la pagina del club The Bears, donde conoceras un poco acerca del club, su historia, sus logros, como se ha mantenido por tanto tiempo vigente en el futbol norteamericano y tienda.</p> <br/>
+
+ <ul>
+<li class="toctree-l1"><a class="reference internal" href="Historia.html">Historia del club</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Logros.html">Logros</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Tienda.html">Tienda</a></li>
+</ul>
+ 
 <p>In The Bears We Trust</p> <br/>
 <p> Willian "Willie" Campbell </p>
 
 <img src="_static/Willie.png" class="logo__image only-light" alt="Logo image"/>
 <script>document.write(`<img src="_static/Willie.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
 
- 
-<li class="toctree-l1"><a class="reference internal" href="Historia.html">Historia del club</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Logros.html">Logros</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Tienda.html">Tienda</a></li>
-</ul>
+
         
 <div class="prev-next-area">
     <a class="right-next"
