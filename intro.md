@@ -38,7 +38,6 @@ By Steven Carvajal
   <div class="footer-item">
     
   <p class="copyright">
-    
       © Copyright 2023
   </p>
 
