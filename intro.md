@@ -5,7 +5,7 @@
 <p> Willian "Willie" Campbell </p>
 
 <img src="_static/Willie.png" class="logo__image only-light" alt="Logo image"/>
-    <script>document.write(`<img src="_static/Willie.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+<script>document.write(`<img src="_static/Willie.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
 
  
 <li class="toctree-l1"><a class="reference internal" href="Historia.html">Historia del club</a></li>
@@ -55,9 +55,6 @@ By Steven Carvajal
 </div>
           </footer>
         
-
-      </main>
-    </div>
   </div>
   
 
