@@ -5,16 +5,6 @@
 <li class="toctree-l1"><a class="reference internal" href="Tienda.html">Tienda</a></li>
 </ul>
 
-    </div>
-</nav></div>
-    </div>
-  
-  
-
-
-      </div>
-      
-      <main id="main-content" class="bd-main">
         
         
 
