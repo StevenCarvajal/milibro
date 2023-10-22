@@ -9,7 +9,8 @@
 </section>
 
 <li> class="toctree-l1"><a class="reference internal" href="Historia.html">Historia del club</a></li>
-
+<li class="toctree-l1"><a class="reference internal" href="Logros.html">Logros</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Tienda.html">Tienda</a></li>
         
 <div class="prev-next-area">
     <a class="right-next"
