@@ -7,6 +7,12 @@
 <img src="_static/Willie.png" class="logo__image only-light" alt="Logo image"/>
     <script>document.write(`<img src="_static/Willie.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
 
+    <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Historia.html">Historia del club</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Logros.html">Logros</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Tienda.html">Tienda</a></li>
+</ul>
+
 
 </section>
 
