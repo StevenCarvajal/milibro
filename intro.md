@@ -36,8 +36,7 @@
               
               
                 
-<div id="searchbox"></div>
-                <article class="bd-article" role="main">
+
                   
   <section class="tex2jax_ignore mathjax_ignore" id="Bienvenido-a-The-Bears-FC">
 <h1>Bienvenido a The Bears FC</h1>
